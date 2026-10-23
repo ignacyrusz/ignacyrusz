@@ -1,6 +1,6 @@
 Hi, I’m [**Ignacy Ruszkowski**](ignacyruszkowski.com).
 
-I just finished my Bachelor in Econometrics and Data Science at University of Amsterdam. I am currently working on a startup designing custom MCPs for websites without native support. Besides that I am interested in AI Safety, and I am exploring the opportunities in that space.
+I am a co-founder at Talona, bringing order to the chaos of construction sites. The pm/super gets the full picture of what’s happening across the site at any moment, plus what needs attention and how to handle it. No new apps needed.
 
 ![LinkedIn](https://img.shields.io/badge/--0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjQgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNHpNNy4xMTkgMjAuNDUySDMuNTU0VjloMy41NjV2MTEuNDUyeiIvPjwvc3ZnPg==&logoWidth=18)
 [![Substack](https://img.shields.io/badge/--FF6719?style=flat&logo=substack&logoColor=white&logoWidth=18)](https://ignacyrusz.substack.com)
